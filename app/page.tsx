@@ -125,7 +125,7 @@ const Page = () => {
         <AppBar position="static" sx={{ p: 1 }}>
           <Toolbar>
             <Typography variant="h1" component="h1">
-              日本語の都道府県別人口データ
+              [デモページ]日本語の都道府県別人口データ
             </Typography>
           </Toolbar>
         </AppBar>
