@@ -43,6 +43,7 @@ jobs:
       - run: npm ci
       # ビルド
       - run: npm run build --if-present
+      - run: npm run export
 
       # デプロイ
       - name: Setup Pages
